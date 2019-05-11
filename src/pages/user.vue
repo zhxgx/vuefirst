@@ -1,0 +1,21 @@
+<template>
+  <div class="user">
+    <div class="regist_header clearfix">
+			<div class="wrap margin">
+		        <a href="http://www.yhd.com" class="logo"><img src="https://passport.yhd.com/front-passport/passport/images/loginlogo.jpg" height="55" alt="1号店" /></a>
+		        <div class="regist_header_right clearfix">
+		        	<!--<a href="#" class="english_edition" id="edition" style="display:none">English</a>-->
+		            <div class="help_wrap">
+		                <a class="hd_menu" href="http://cms.yhd.com/cms/view.do?topicId=12"><s class="help_ico"></s>帮助中心</a>
+		               
+		            </div>
+		            <span class="fr">您好，欢迎光临1号店！ <a href="register.html" class="blue_link">请注册</a></span>
+		        </div>
+		    </div>
+		  </div>
+
+  </div>
+</template>
+<style >
+
+</style>
